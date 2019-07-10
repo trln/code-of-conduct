@@ -3,7 +3,7 @@ CodeOfConduct4Lib
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
-Short link: <http://bit.ly/coc4lib>
+Short link: <https://bit.ly/2LcF3SH>
 
 Code4Lib seeks to provide a welcoming, professionally engaging, fun, and
 safe conference experience and ongoing community for everyone. We do not 
@@ -47,7 +47,7 @@ contact, and unwelcome sexual attention.
 
     If you are at a conference or other event, 
     find the on-call [Community Support Volunteer](csvcharge.md) or the event organizer or
-    staff person, who should be listed [on the wiki](http://wiki.code4lib.org/index.php/Main_Page).
+    staff person, who should be listed [on the event schedule](https://docs.google.com/document/d/1WoC0eON9FaoY5IsrjVdze-8lg3_tK_E-zDXPO9oPb0o/edit?usp=sharing).
     If you can't find either of these, there will be other staff 
     available to help if the situation calls for immediate action.
 
@@ -132,7 +132,7 @@ In the case of organized events, those responsible for the event should have rea
 * **Code4lib IRC volunteers:** `@helpers` in #code4lib, or
 `/msg zoia helpers #code4lib`
 
-
+For Blacklight Summit 2019 the above information is available on the Blacklight Summit event [web page](https://www.trln.org/blacklight-summit/) and  [schedule document](https://docs.google.com/document/d/1WoC0eON9FaoY5IsrjVdze-8lg3_tK_E-zDXPO9oPb0o/edit?usp=sharing).
 
 We expect participants to follow these rules at all conference venues,
 conference-related social events, community gatherings, and online communication channels.
